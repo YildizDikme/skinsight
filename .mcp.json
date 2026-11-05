@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "youcam-beauty": {
+      "type": "http",
+      "url": "https://mcp-api-01.makeupar.com/mcp/beauty",
+      "headers": {
+        "Authorization": "Bearer ${YOUCAM_API_KEY}"
+      }
+    }
+  }
+}
